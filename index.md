@@ -1,5 +1,5 @@
 ---
-title: GEOG5003M Assignment 1
+# GEOG5003M Assignment 1
 ---
 
 Please find the reqested code and README files for assignment 1 below:
