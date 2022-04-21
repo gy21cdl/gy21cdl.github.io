@@ -4,7 +4,6 @@ README
 Assignment 1 - Portfolio
 
 1. Introduction
-
     This portfolio has been developed by following the stages within the 
     GEOG5003M Practicals 
     (https://www.geog.leeds.ac.uk/courses/computing/study/core-python-odl2/)
@@ -14,12 +13,14 @@ Assignment 1 - Portfolio
     GitHub or Onedrive Zip files from this website:
 
 
+
                     https://gy21cdl.github.io/
 
     
     
     Webpage code sourced from GitHub - Slate Preset Theme
     https://github.com/pages-themes/slate
+
 
 2. Contents
     The following files have been provided to document the code development 
@@ -56,8 +57,16 @@ Assignment 1 - Portfolio
             csvreader9.py
             in.txt  
 
+
+3. Expected outputs:
+    a.  Scatter chart of agents, coloured individually and displayed on 
+        environment background in a seperate window. The animation will 
+        show how the agents move and the eaten "paths" will be displayed.
+    b.  Printed shared neighberhood values between agents (sharing).
+    c.  "Finished" printed on closing the seperate window.
    
-3. Licencing
+   
+4. Licencing
     MIT License
 
     Copyright (c) 2022 - clambert
