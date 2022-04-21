@@ -11,3 +11,5 @@ Please find the reqested code by practical for assignment 1 below.
 3. [Communicating](https://github.com/gy21cdl/Communicating.git)
 4. [Animation-Behaviour](https://github.com/gy21cdl/Animation-Behaviour.git)
 5. GUI/Web scraping
+
+[LICENCE](https://github.com/gy21cdl/gy21cdl.github.io/blob/dc4b171467363dd3601cd38f588a60d2e6a9d5d4/GEOG5003M_LICENCE.txt)
