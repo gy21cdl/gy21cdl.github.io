@@ -26,8 +26,8 @@ Assignment 1 - Portfolio
     The following files have been provided to document the code development 
     undertaken throughout the practicals. 
     
-     When running the code, ensure that all constituent parts are saved to the 
-     same directory and run the relevent model.py file. 
+    When running the code, ensure that all constituent parts are saved to the 
+    same directory and run the relevent model.py file. 
     
         Agents!
             model5.py
@@ -59,14 +59,25 @@ Assignment 1 - Portfolio
 
 
 3. Expected outputs:
-    a.  Scatter chart of agents, coloured individually and displayed on 
-        environment background in a seperate window. The animation will 
-        show how the agents move and the eaten "paths" will be displayed.
-    b.  Printed shared neighberhood values between agents (sharing).
-    c.  "Finished" printed on closing the seperate window.
+    a.  Scatter chart of agents, coloured individually and displayed on environment
+	background in a seperate window. The animation will show how the agents move
+	and the eaten "paths" will be displayed. This will also have a GUI button "Run 
+	Model" from the dropdown at the top left hand corner.
+    b.  Print shared neighberhood values between agents (sharing)
+
+4. Notes
+    Due to time contratins, please consider model8 (Animations) completed and model 9
+    (GUI-Web Scraping) partically completed and attempted. The current issues that I 
+    was working through in model9 include:
+	a. I was able to build the GUI output but the model runs automaticaly and does 
+           not run again when the button is pressed.
+        b. I began to work through the web scraping section of the practical but ran 
+           out of time to complete. I have included the building blocks for this section
+           but have commented them out so that model9 runs without error messages. 
+        c. The model runs, but takes some time to process and seems to not reset after 
+           completion - I needed to restart the kernel to begin the model again at this time.
    
-   
-4. Licencing
+5. Licencing
     MIT License
 
     Copyright (c) 2022 - clambert
