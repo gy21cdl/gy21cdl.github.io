@@ -66,7 +66,7 @@ Assignment 1 - Portfolio
     b.  Print shared neighberhood values between agents (sharing)
 
 4. Notes
-    Due to time contratins, please consider model8 (Animations) completed and model 9
+    Due to time contractions, please consider model8 (Animations) completed and model 9
     (GUI-Web Scraping) partically completed and attempted. The current issues that I 
     was working through in model9 include:
 	a. I was able to build the GUI output but the model runs automaticaly and does 
